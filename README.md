@@ -1,145 +1,235 @@
-<h1 align="center">Hi 👋, I'm Isaiah Melvin Issac</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Frontend Developer | AIML Engineer | Building Intelligent Systems
-</h3>
+# 👨‍💻 Isaiah Melvin Issac
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Frontend+Developer;React+Developer;Future+ML+Engineer;Building+Innovative+Systems&center=true&width=600&height=45">
-</p>
+### AI Engineer • Full Stack Developer • AIML Undergraduate • Building Intelligent Systems
+
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Full+Stack+Developer;React+%2B+FastAPI+Developer;Machine+Learning+Enthusiast;Building+Real+World+AI+Systems&center=true&width=700&height=45&color=58A6FF&vCenter=true&pause=1000&size=28" />
+
+<img src="https://komarev.com/ghpvc/?username=Isaiah7779&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-🎓 B.E in Artificial Intelligence & Machine Learning  
-🏫 CMR Institute of Technology, Bengaluru  
+🎓 Final Year B.E Student in **Artificial Intelligence & Machine Learning** at **CMR Institute of Technology, Bengaluru**
 
-💡 Passionate about:
-- Artificial Intelligence
-- Frontend Development
+💡 Passionate about building:
+- AI-powered applications
+- Intelligent automation systems
+- Full-stack web platforms
+- Cloud-native applications
+
+⚡ Strong interest in:
+- Machine Learning
+- React & FastAPI
 - DevOps & Cloud
-- Intelligent Automation
-- Real-world Problem Solving
+- AI Assistants
+- Real-world innovation
 
-🌱 Currently Learning:
-- Advanced Machine Learning
-- React + FastAPI
+---
+
+# 🔥 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 AI & Machine Learning
+- Retrieval-Augmented Generation (RAG)
+- AI Assistants & Automation
+- Computer Vision Projects
+- Intelligent Prediction Systems
+
+</td>
+
+<td width="50%">
+
+## ☁️ Full Stack & DevOps
+- React + FastAPI Applications
 - Docker & Kubernetes
-- AI System Design
+- API Development
+- Deployment Pipelines
 
-⚡ Goal:
-To build impactful AI systems that solve real-world problems.
+</td>
+</tr>
+</table>
 
 ---
 
 # 🛠 Tech Stack
 
+<div align="center">
+
 ## 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
 
 ---
 
-## 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+## ⚛ Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,tensorflow" />
 
 ---
 
-## ⚙ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+## ☁️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,mysql,vscode" />
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🤖 JARVIS – AI Voice Assistant
-- Voice controlled personal AI assistant
-- Speech recognition and automation
-- Built using Python and APIs
 
-### Tech Used
-Python • SpeechRecognition • pyttsx3 • APIs
+🔹 Voice-controlled personal AI assistant  
+🔹 Speech recognition + automation  
+🔹 Command execution system  
+🔹 Extensible modular architecture  
 
----
+### ⚙ Tech
+Python • APIs • SpeechRecognition • pyttsx3
+
+</td>
+
+<td width="50%">
 
 ## 🚑 AI Accident Detection System
-- Real-time accident detection using AI
-- Emergency alert system for ambulances
-- Smart emergency response concept
 
-🏆 Selected for CMRIT Business Plan Competition 2025
+🔹 Real-time AI accident detection  
+🔹 Emergency alert integration  
+🔹 Smart surveillance concept  
+🔹 Designed for rapid emergency response  
+
+🏆 Presented at CMRIT Business Plan Competition
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## 📚 Library Management System
-- CRUD based management system
-- Book issue/return automation
-- MySQL integrated backend
 
-### Tech Used
+🔹 CRUD-based management platform  
+🔹 Book issue & return automation  
+🔹 Search & catalog management  
+
+### ⚙ Tech
 HTML • CSS • JavaScript • MySQL
 
----
+</td>
 
-# 📊 GitHub Analytics
+<td width="50%">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Isaiah7779&show_icons=true&theme=tokyonight">
-</p>
+## 🌱 CO₂ Prediction System
 
----
+🔹 Machine Learning prediction model  
+🔹 Data analysis & forecasting  
+🔹 Frontend integration using React + FastAPI  
 
-# 🔥 GitHub Streak
+### ⚙ Tech
+Python • React • FastAPI • ML
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Isaiah7779&theme=tokyonight">
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaiah7779&layout=compact&theme=tokyonight">
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 # 🏆 Achievements
 
-🏅 Filed Patent – “Textract”  
-🏅 Marathon Winner (2022)  
-🏅 Football Tournament Winner (2023)  
-🏅 Joint Secretary – Rotaract Club CMRIT  
+✨ Filed Patent – **“Textract”**  
+🏅 Winner – Marathon (2022)  
+⚽ Football Tournament Winner (2023)  
+🎯 Joint Secretary – Rotaract Club CMRIT  
+📜 Infosys Springboard Certified – Web Development  
 
 ---
 
-# 📜 Certifications
+# 📊 GitHub Analytics
 
-✅ Infosys Springboard – Web Development
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isaiah7779&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaiah7779&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Isaiah7779&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaiah7779&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Isaiah7779&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 📦 Repository Insights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isaiah7779&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isaiah7779&theme=tokyonight" />
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-📍 Bengaluru, India  
+<div align="center">
 
-📧 your-email@gmail.com  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Isaiah7779)
 
-🔗 LinkedIn: Add your profile link  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
 
-💻 GitHub: https://github.com/Isaiah7779
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/me_izy777)
+
+</div>
 
 ---
 
-<p align="center">
-✨ "Building Intelligent Systems For The Future" ✨
-</p>
+<div align="center">
+
+# ✨ “Building Intelligent Systems For The Future” ✨
+
+</div>
